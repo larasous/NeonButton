@@ -38,11 +38,15 @@ a:hover {
 }
 
 a:nth-child(1) {
-    filter: hue-rotate(200deg);
+    filter: hue-rotate(300deg);
 }
   
 a:nth-child(2) {
-    filter: hue-rotate(110deg);
+    filter: hue-rotate(500deg);
+}
+
+a:nth-child(3) {
+  filter: hue-rotate(437deg);
 }
 
 a span {
